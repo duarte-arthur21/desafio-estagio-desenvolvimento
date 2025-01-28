@@ -3,7 +3,8 @@
 
 ### DESAFIO DA SELEÇÃO PARA A VAGA DE DESENVOLVEDOR FRONT-END
 
-## Nessa etapa é a hora de mostrar todo seu potencial. Depois de ler as instruções é preciso separar um tmepinha para realizar as questões a seguir:
+## Nessa etapa é a hora de mostrar todo seu potencial. Depois de ler as instruções é preciso separar
+## um tmepinha para realizar as questões a seguir:
 ```
 
 
