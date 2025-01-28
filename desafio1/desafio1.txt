@@ -1,0 +1,1 @@
+1) Resultado impresso vai ser Igual a 78
